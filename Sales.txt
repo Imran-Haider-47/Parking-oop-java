@@ -1,0 +1,2 @@
+
+Customer id = 3Checked out, by paying Fee = 5
